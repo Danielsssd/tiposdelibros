@@ -1,0 +1,87 @@
+h1 {
+    color: red;
+    float: right;
+    margin-right: 570px;
+}
+
+h2 {
+    color: red;
+}
+
+body {
+    background-image: url(../images/hola.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 150px;
+    background-size: 100%;
+}
+
+img {
+    width: 400px;
+}
+
+p{
+    text-align: justify;
+}
+
+main{
+    background-color: #FFFFFF;
+    background-size: 100%;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+nav ul li{
+     list-style: none;
+     display: inline;
+}
+
+nav ul li a{
+    text-decoration: none;
+    padding: 7px 10px;
+    margin: 0 20px 0 0;
+    border: 1px solid rgb(22, 213, 247);
+    background: #00ff6a;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+nav ul li a:hover{
+    background: #bef300;
+    color: #000;
+}
+
+.oso{
+    float: left;
+    width: 100px;
+    margin-left: 500px;
+}
+
+.clear{
+    clear:both;
+}
+
+.hola{
+    text-align: justify;
+    color: red;
+}
+
+.dramatico{
+    text-align: justify;
+    color: red;
+}
+
+.drama{
+    text-align: justify;
+}
+
+.epico{
+    text-align: justify;
+    color: red;
+}
+
+footer{
+    text-align: justify;
+    color: blue;
+}

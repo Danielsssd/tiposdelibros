@@ -1,0 +1,8 @@
+{
+    "editor.autoIndent": "brackets",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#1C303C",
+        "titleBar.activeBackground": "#274353",
+        "titleBar.activeForeground": "#FAFBFC"
+    }
+}
